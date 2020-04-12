@@ -1,4 +1,5 @@
-Creating a python Page Object Model(POM) is a very good way to create your automation test cases and make a unittest frameowrk built around it.
+Page Object Model (POM) is a design pattern, popularly used in test automation that creates Object Repository for web UI elements. The advantage of the model is that it reduces code duplication and improves test maintenance.
+
 In this tutorial we are going to learn how to create a simple logoin Test to automate a scenario using POM.
 
 Step by Step:
